@@ -23,11 +23,11 @@ Minions Ventures Pvt Ltd,Python Developer,Python,Mumbai,4-6,"['Python', 'Machine
 exponentia,GCP Data Engineer,Google Cloud Platform,Bangalore,3-6,"['Google Cloud Platform', 'BigQuery', 'SQL']",01-12-2023
 Robosoft Technologies,Senior Data Analyst,Python,Bangalore,5-10,"['Python', 'SQL', 'Data Analytics']",01-12-2023
 Robosoft Technologies,Senior Data Analyst,Data Analyst,Gurgaon/Gurugram,10-15,"['Data Analyst', 'SQL', 'Python']",29-11-2023
-CoverStack Technologies,Senior Backend Developer,Python,Trivandrum/Thiruvananthapuram,5-10,"['Python', 'Django', 'SQL']",29-11-2023
-Minions Ventures Pvt Ltd,Software Development Engineer II,Python,Bangalore,4-5,"['Python', 'Microservices Architecture', 'Machine Learning']",24-11-2023
+CoverStack Technologies,Senior Backend Developer,Python,Bangalore,5-10,"['Python', 'Django', 'SQL']",29-11-2023
+Minions Ventures Pvt Ltd,Software Development Engineer II,Python,Trivandrum/Thiruvananthapuram,4-5,"['Python', 'Microservices Architecture', 'Machine Learning']",24-11-2023
 Beato,Data Analyst/Senior Data Analyst,Data Analytics,Gurgaon/Gurugram,0-6,"['Data Analytics', 'Data Analyst', 'Machine Learning']",27-11-2023
-Chalo,Data Analyst,Data Analyst,Chennai,3-15,"['Data Analyst', 'Data Analytics', 'Python']",22-11-2023
-AppsforBharat,Product Analyst,MySQL,Cochin/Kochi,1-5,"['MySQL', 'Product Analyst', 'SQL']",22-11-2023
+AppsforBharat,Product Analyst,MySQL,Chennai,1-5,"['MySQL', 'Product Analyst', 'SQL']",22-11-2023
+Chalo,Data Analyst,Data Analyst,Cochin/Kochi,3-15,"['Data Analyst', 'Data Analytics', 'Python']",22-11-2023
 Trademo,Senior Backend Engineer,Python,Mumbai,2-6,"['Python', 'Django', 'ElasticSearch']",22-11-2023
 M2P Fintech,Data Engineer,Python,Jaipur,1-4,"['Python', 'Big Data', 'Scala']",17-11-2023
 Entri.app,Backend Developer,API,Anywhere in India/Multiple Locations,1-3,"['API', 'Python', 'Django']",10-11-2023
@@ -72,8 +72,8 @@ Mobile Programming Pvt LTd,Platform Engineer,Full Stack,Anywhere in India/Multip
 SPMR Advisors Pvt Ltd,Senior Data Engineer,Data Management,Pune,5-9,"['Big Data', 'Data Analytics', 'Data Pipeline']",01-12-2023
 Solutionec Private Limited,Data Analyst,Full Stack,Gurgaon/Gurugram,6-11,"['SQL', 'R', 'SAS']",01-12-2023
 Quantum Corporation,Software Engineer,Data Pipeline,Gurgaon/Gurugram,5-15,"['Python', 'Perl', 'C++']",01-12-2023
-Meetri Infotech,Senior Full Stack Developer,Solution Architect,Hyderabad,3-6,"['Full Stack', 'Python', 'React.js']",01-12-2023
-Marktine Technology Solutions,Data Engineer,Data Scientist,Mumbai,5-7,"['Data Management', 'Python', 'Java']",30-11-2023
+Meetri Infotech,Senior Full Stack Developer,Solution Architect,Mumbai,3-6,"['Full Stack', 'Python', 'React.js']",01-12-2023
+Marktine Technology Solutions,Data Engineer,Data Scientist,Hyderabad,5-7,"['Data Management', 'Python', 'Java']",30-11-2023
 Quantum Corporation,Full Stack Developer,Python,Bangalore,4-10,"['Full Stack', 'Python', 'Golang']",01-12-2023
 Aezion.Inc,Senior Data Engineer,Java,Bangalore,7-20,"['Data Pipeline', 'Azure', 'Azure Data Factory']",01-12-2023
 Nvent.com,Software Architect,Python,Pune,7-12,"['Solution Architect', 'Java', 'Python']",30-11-2023
@@ -91,12 +91,12 @@ Zania.ai,Senior/Lead Software Engineer,Python,Hyderabad,6-10,['Python'],29-11-20
 Milestone Inc,Staff Data Engineer,Big Data,Mysore,8-12,"['Data Pipeline', 'Data Infrastructure', 'Big Data']",29-11-2023
 Aviso AI,Software Engineer,Python,Anywhere in India/Multiple Locations,3-6,"['Python', 'OOPS', 'API Integration']",29-11-2023
 U-SET,Big Data Engineer,Odoo,Bangalore,5-8,"['Big Data', 'Hadoop', 'Spark']",29-11-2023
-Briq,Senior Full Stack Engineer,Machine Learning,Gurgaon/Gurugram,5-7,"['Python', 'Django', 'Flask']",29-11-2023
-Huquo,Big Data Engineer/Manager,Python,Gurgaon/Gurugram,5-7,"['Big Data', 'ETL', 'Data Management']",29-11-2023
+Briq,Senior Full Stack Engineer,Python,Gurgaon/Gurugram,5-7,"['Python', 'Django', 'Flask']",29-11-2023
+Huquo,Big Data Engineer/Manager,Machine Learning,Gurgaon/Gurugram,5-7,"['Big Data', 'ETL', 'Data Management']",29-11-2023
 ClicFlyer,Senior Analyst,AWS,Mumbai,4-7,"['Python', 'Power BI', 'BigQuery']",29-11-2023
 Oodles Technology,Odoo Developer,Azure Data Factory,Gurgaon/Gurugram,0-3,"['Odoo', 'Python']",29-11-2023
-Navtech (Navaratan Technologies Pvt. Ltd),Machine Learning Engineer,C++,Mumbai,1-5,"['Machine Learning', 'Python', 'NLP']",29-11-2023
-Sapat International Pvt Ltd,Backend Developer,Java,Hyderabad,3-6,"['Python', 'Django', 'Ruby on Rails']",29-11-2023
+Sapat International Pvt Ltd,Backend Developer,C++,Mumbai,3-6,"['Python', 'Django', 'Ruby on Rails']",29-11-2023
+Navtech (Navaratan Technologies Pvt. Ltd),Machine Learning Engineer,Java,Hyderabad,1-5,"['Machine Learning', 'Python', 'NLP']",29-11-2023
 CGI,AWS Data Engineer,Data Analyst,Gurgaon/Gurugram,4-10,"['AWS', 'Python']",29-11-2023
 CGI,Azure Data Engineer,Full Stack,Chennai,4-10,"['Azure Data Factory', 'Azure Databricks', 'Azure Data Studio']",29-11-2023
 Persistent Systems,C++ Developer,Java,Bangalore,4-6,"['C++', 'C', 'Python']",29-11-2023
@@ -120,8 +120,8 @@ Aricent,Data Science Analyst,SQL,Bangalore,3-18,"['Data Science', 'Data Analyst'
 Oceaneering International Services Limited,Senior Application Software Engineer,Python,Anywhere in India/Multiple Locations,4-10,"['C++', 'Python', 'C++11']",27-11-2023
 Atai Labs,Backend Engineer,Java,Pune,4-10,"['Backend Architecture', 'Python', 'Django']",27-11-2023
 Test Triangle,Data Scientist,Python,Bangalore,0-5,"['Data Science', 'Data Scientist', 'Machine Learning']",26-11-2023
-Test Triangle,Data Analyst,Python,Hyderabad,0-8,"['Data Analyst', 'Data Analytics', 'SQL']",26-11-2023
-Huquo,Data Architect,Kafka,Chennai,10-15,"['SQL', 'Python', 'Data Architect']",25-11-2023
+Test Triangle,Data Analyst,Python,Chennai,0-8,"['Data Analyst', 'Data Analytics', 'SQL']",26-11-2023
+Huquo,Data Architect,Kafka,Hyderabad,10-15,"['SQL', 'Python', 'Data Architect']",25-11-2023
 Huquo,ETL Developer,Data Science,Bangalore,5-8,"['Python', 'SQL', 'ETL']",25-11-2023
 BXP SUPPORT AND SOLUTIONS PVT LTD,Tech Lead,API,Bangalore,5-8,"['Java', 'Python', 'Solution Implementation']",25-11-2023
 HuQuo Consulting Pvt. Ltd.,Data Engineer,SQL,Gurgaon/Gurugram,3-8,"['Python', 'Hadoop', 'SQL']",25-11-2023
@@ -145,8 +145,8 @@ Test Triangle,Python Developer,Python,Any Location,1-25,"['Python', 'Django', 'A
 Tentacle Technologies,Python Artificial Intelligence Engineer,Python,Bangalore,5-10,"['Python', 'Artificial Intelligence', 'NLP']",24-11-2023
 Deqode,Python Developer,Python,Bangalore,3-6,"['Python', 'Django', 'Flask']",21-11-2023
 Deqode,Python Developer,Python,Navi Mumbai,2-4,"['Python', 'Backend Architecture', 'Django']",21-11-2023
-Deqode,Python Developer,Python,Gurgaon/Gurugram,4-8,"['Python', 'MySQL', 'Django']",21-11-2023
-THIRE GLOBAL SERVICES PRIVATE LIMITED,Python Developer,Python,Hyderabad,2-3,"['Python', 'Django', 'Flask']",21-11-2023
+THIRE GLOBAL SERVICES PRIVATE LIMITED,Python Developer,Python,Gurgaon/Gurugram,2-3,"['Python', 'Django', 'Flask']",21-11-2023
+Deqode,Python Developer,Python,Hyderabad,4-8,"['Python', 'MySQL', 'Django']",21-11-2023
 LiquiLoans,Lead Python Developer,Python,Anywhere in India/Multiple Locations,5-10,"['Python', 'Numpy', 'Pandas']",23-11-2023
 Squash Apps Private limited,Python/React.js Developer,Python,Delhi NCR,6-10,"['Python', 'React.js', 'Javascript']",23-11-2023
 Vinove,Python Developer,Python,Gurgaon/Gurugram,6-8,"['Python', 'Full Stack', 'Microservices Architecture']",21-11-2023
@@ -173,8 +173,8 @@ Live Connections,Data Engineer,Python,Chandigarh,3-5,"['Azure', 'Hadoop', 'Spark
 Presence Education,Data Analyst,Data Analytics,Chandigarh,1-7,[],24-11-2023
 Ventura Securities Ltd.,Backend Developer,Full Stack,Bangalore,3-4,"['Backend Architecture', 'Python', 'SQL']",23-11-2023
 e-solutions,Data Engineer,Artificial Intelligence,Kerala,10-14,"['Data Management', 'Google Cloud Platform', 'BigQuery']",23-11-2023
-Zyoin,Lead Risk Analyst,Azure,Anywhere in India/Multiple Locations,4-6,"['Python', 'SQL']",24-11-2023
-Confidential Company,SQL/Python,Embedded,Chandigarh,3-11,[],24-11-2023
+Confidential Company,SQL/Python,Azure,Anywhere in India/Multiple Locations,3-11,[],24-11-2023
+Zyoin,Lead Risk Analyst,Embedded,Chandigarh,4-6,"['Python', 'SQL']",24-11-2023
 Havells India Limited,Azure Data Engineer,Machine Learning,Vadodara/Baroda,4-10,"['Azure', 'Data Pipeline', 'ETL']",24-11-2023
 Valiance Analytics Pvt. Ltd.,Data Scientist,Analytics,Hyderabad,1-2,"['Data Science', 'Data Scientist', 'Python']",24-11-2023
 Havells India Limited,IoT Automation Engineer,Azure,Pune,5-10,"['Python', 'C', 'System Validation']",24-11-2023
@@ -224,8 +224,8 @@ Kaizen Empire,Software Development Manager,Python,Gurgaon/Gurugram,5-8,"['PHP', 
 Quantiphi,Data Architect,Python,Ahmedabad,10-15,"['Data Architect', 'Native Cloud', 'AWS']",20-11-2023
 Tiluf,Backend Developer,Python,Bangalore,3-5,"['Python', 'AWS', 'AWS Lambda']",20-11-2023
 TransOrg Analytics,Data Scientist,Python,Anywhere in India/Multiple Locations,3-7,"['Data Scientist', 'Data Mining', 'R']",20-11-2023
-TransOrg Analytics,Data Scientist,Python,Bangalore,3-6,[],20-11-2023
-Spark Eighteen,Senior Backend Developer,Python,Anywhere in India/Multiple Locations,3-6,"['Python', 'Django', 'PostgreSQL']",20-11-2023
+Spark Eighteen,Senior Backend Developer,Python,Bangalore,3-6,"['Python', 'Django', 'PostgreSQL']",20-11-2023
+TransOrg Analytics,Data Scientist,Python,Anywhere in India/Multiple Locations,3-6,[],20-11-2023
 Greentech ITS,Computer Vision Engineer,In-Vehicle Infotainment,Bangalore,1-3,[],21-11-2023
 Numantra Technologies,Big Data Engineer,Python,Mumbai,3-8,[],20-11-2023
 Aptus Data Labs,Senior BI Developer,Django,Gurgaon/Gurugram,4-6,"['Business Intelligence', 'Data Visualization', 'Python']",20-11-2023
@@ -287,8 +287,8 @@ Growel Softech Pvt. Ltd.,Full Stack Developer,Java,Mumbai,4-7,"['Python', 'React
 Coders Brain Technology & Private Limited,Data Scientist,Full Stack,Pune,2-5,"['Data Scientist', 'Data Science', 'Data Management']",11-11-2023
 Confidential,Artificial Intelligence/Deep Learning Architect,Python,Punjab,5-15,[],16-11-2023
 SEANERGY DIGITAL INDIA PVT LTD,Python Developer,Backend Architecture,Anywhere in India/Multiple Locations,3-6,"['Python', 'Django', 'Flask']",10-11-2023
-Gloif,Senior Django Developer,Python,Bangalore,6-8,"['Django', 'Python']",09-11-2023
-Squareboat solutiosn pvt ltd,Backend Lead,Cloud,Hyderabad,7-11,"['Node.js', 'Python']",09-11-2023
+Gloif,Senior Django Developer,Python,Hyderabad,6-8,"['Django', 'Python']",09-11-2023
+Squareboat solutiosn pvt ltd,Backend Lead,Cloud,Bangalore,7-11,"['Node.js', 'Python']",09-11-2023
 Unstop,Data Engineer,Python,Bangalore,4-10,"['Data Management', 'Python', 'SQL']",09-11-2023
 Talent Scout Management Solution,Data Engineer,Python,Ahmedabad,3-7,"['Python', 'ETL', 'SQL']",09-11-2023
 Almabase,Solutions Engineer,Machine Learning,Bangalore,1-3,"['Python', 'Solution Design']",21-11-2023
@@ -336,9 +336,9 @@ Samsung Electro Mechanics,Python Developer,Python,Hyderabad,3-8,"['Python', 'API
 Xpressbees,Data Analyst,Python,Bangalore,0-5,"['Data Analyst', 'Data Analytics', 'R']",03-11-2023
 Jio,Senior Software Engineer,Python,Abu Dhabi,3-9,"['React Native', 'Python', 'MongoDB']",23-10-2023
 KreditBee,Senior Software Engineer,Python,Hyderabad,2-6,"['Python', 'Flask', 'Django']",20-09-2023
-Nykaa,Data Architect,Python,Navi Mumbai,8-13,"['DataLake', 'Data Governance', 'Python']",19-09-2023
-Nykaa,Test,Testing,Anywhere in India/Multiple Locations,3-7,"['SDET', 'Testing', 'Automation Testing']",14-09-2023
-KreditBee,Senior Data Analyst,Python,Delhi NCR,2-4,"['Data Analyst', 'SQL', 'Python']",14-09-2023
+Nykaa,Data Architect,Python,Anywhere in India/Multiple Locations,8-13,"['DataLake', 'Data Governance', 'Python']",19-09-2023
+Nykaa,Test,Testing,Delhi NCR,3-7,"['SDET', 'Testing', 'Automation Testing']",14-09-2023
+KreditBee,Senior Data Analyst,Python,Navi Mumbai,2-4,"['Data Analyst', 'SQL', 'Python']",14-09-2023
 KreditBee,Lead Data Analyst,MySQL,Anywhere in India/Multiple Locations,4-6,"['Python', 'SQL', 'Data Analytics']",14-09-2023
 Delhivery,Technical Lead,Python,MP,5-8,"['Python', 'Django', 'Flask']",06-09-2023
 Moengage,Senior Software Engineer,Python,Bangalore,3-5,"['Python', 'AWS', 'MongoDB']",26-09-2023
@@ -356,8 +356,8 @@ Wits Innovation Lab,Python Developer,Python,Bangalore,4-8,"['Python', 'System De
 SEANERGY DIGITAL SERVICES PVT LTD,Lead Python Developer,Python,Chennai,7-12,"['Python', 'Django', 'Flask']",01-11-2023
 Aexonic Technologies Private Limited,Python Developer,Python,Bangalore,1-3,"['Python', 'Flask', 'Computer Vision']",20-10-2023
 Kodehash Technologies Pvt Ltd,Python Developer,Python,Metros,3-6,"['Python', 'Django', 'AngularJS']",20-10-2023
-Nstarx India Private Limited,Python Full Stack Developer,Python,Pune,5-15,"['Python', 'Django', 'Flask']",30-10-2023
-Spurtree technologies,SpurTree Technologies,Full Stack,Anywhere in India/Multiple Locations,7-15,"['Python', 'Full Stack', 'Javascript']",31-10-2023
+Nstarx India Private Limited,Python Full Stack Developer,Python,Anywhere in India/Multiple Locations,5-15,"['Python', 'Django', 'Flask']",30-10-2023
+Spurtree technologies,SpurTree Technologies,Full Stack,Pune,7-15,"['Python', 'Full Stack', 'Javascript']",31-10-2023
 Digi Upaay Solutions Pvt. Ltd,Python Developer,Python,Bangalore,3-5,"['Python', 'Django', 'Flask']",17-10-2023
 SEANERGY DIGITAL SERVICES PVT LTD,Python Developer,Python,Bangalore,4-6,"['Python', 'Django', 'Flask']",13-10-2023
 Deqode,Python Developer,Python,Pune,4-6,"['Python', 'Django', 'Flask']",11-10-2023
@@ -399,8 +399,8 @@ Excelra Knowledge Solutions,Python Developer,Python,Hyderabad,4-6,"['Python', 'S
 Zapbuild Technologies Pvt.Ltd.,Senior Python Developer,Python,Anywhere in India/Multiple Locations,5-10,"['Python', 'Django', 'Flask']",06-10-2023
 Scry AI,Python Developer,Python,Mumbai,3-8,"['Python', 'Data Structure', 'Flask']",26-09-2023
 DHANI,Dhani,Python,Bangalore,5-7,"['Python', 'API']",25-09-2023
-koantek,Python Developer,Python,Bangalore,5-10,"['Python', 'Django', 'Data Structure']",26-09-2023
-ClientServer Solutions Pvt. Ltd,Senior Python Developer,Python,Pune,5-7,"['Python', 'Flask', 'Backend Architecture']",05-10-2023
+ClientServer Solutions Pvt. Ltd,Senior Python Developer,Python,Bangalore,5-7,"['Python', 'Flask', 'Backend Architecture']",05-10-2023
+koantek,Python Developer,Python,Pune,5-10,"['Python', 'Django', 'Data Structure']",26-09-2023
 AALAM INFO SOLUTIONS LLP,Python Developer,Python,Bangalore,3-7,"['Python', 'Data Analytics', 'SQL']",25-09-2023
 Cloud Hire,null,Python,Bangalore,3-5,"['Python', 'Testing', 'Automation Testing']",03-10-2023
 Arting Digital,Python Developer,Python,Bangalore,3-6,"['Django', 'Python', 'AWS Lambda']",23-09-2023
@@ -409,8 +409,8 @@ Beamstacks,Senior Python/Data Analysis Engineer,Python,Hyderabad,3-6,"['Python',
 ClientServer Solutions Pvt Ltd,Senior Python Lead Developer,Python,Any Location,5-8,"['Flask', 'REST API', 'SQL']",04-10-2023
 Hidden Brains Infotech,Senior Python Developer,Python,Hyderabad,6-12,"['Python', 'Django', 'Flask']",04-10-2023
 Liquiloans,Lead Python Developer,Python,Bangalore,5-10,"['Python', 'Numpy', 'Pandas']",03-10-2023
-Rishvaware Technologies Pvt Ltd,null,Python,Mumbai,4-6,"['Python', 'Node.js', 'Full Stack']",29-09-2023
-Vrinsoft,Python Developer,Python,Gurgaon/Gurugram,3-7,"['Python', 'Django', 'Flask']",20-09-2023
+Rishvaware Technologies Pvt Ltd,null,Python,Gurgaon/Gurugram,4-6,"['Python', 'Node.js', 'Full Stack']",29-09-2023
+Vrinsoft,Python Developer,Python,Mumbai,3-7,"['Python', 'Django', 'Flask']",20-09-2023
 NEW MEDIA GURU INDIA PVT LTD,Senior Python Developer,Python,Navi Mumbai,4-9,"['Python', 'Django', 'Flask']",27-09-2023
 BestPeers Infosystem Pvt. Ltd.,Python Developer,Python,Anywhere in India/Multiple Locations,3-4,"['Python', 'Application Integration', 'Django']",15-09-2023
 CODNEXT IT,Python Lead Developer/Architect,Python,Hyderabad,7-11,"['Python', 'Django', 'Flask']",25-09-2023
@@ -446,11 +446,11 @@ TheModernDimension,Python Developer,Python,Bangalore,2-5,"['Python', 'Django']",
 SeaCross Recruitment Services,null,Data Analyst,Dubai,5-10,"['Python', 'Solution Design', 'Server Side Component']",04-09-2023
 Askria.ai,Backend Engineer,Python,Any Location,3-10,[],13-09-2023
 Aricent Technologies,Full Stack Python Developer,Data Pipeline,Gurgaon/Gurugram,1-15,"['Python', 'Full Stack', 'AngularJS']",13-09-2023
-Ellow.io,Python Developer,Python,Bangalore,3-7,"['Python', 'Django', 'Flask']",04-09-2023
-ATS,Python Full Stack Developer,Machine Learning,Metros,1-15,"['Python', 'Full Stack', 'Django']",13-09-2023
-Iresh7 consulting,Python Automation Core Network Engineer,Data Science,Chennai,5-10,"['Python', 'Network Architecture', 'LTE']",19-09-2023
-CIELHR,Python Full Stack Developer,Azure,Bangalore,3-6,"['Python', 'Full Stack', 'Django']",12-09-2023
-Robosoft Technologies,Python Developer,Python,Bangalore,5-8,"['Python', 'Django', 'Flask']",05-09-2023
+ATS,Python Full Stack Developer,Python,Bangalore,1-15,"['Python', 'Full Stack', 'Django']",13-09-2023
+Ellow.io,Python Developer,Machine Learning,Metros,3-7,"['Python', 'Django', 'Flask']",04-09-2023
+Iresh7 consulting,Python Automation Core Network Engineer,Azure,Chennai,5-10,"['Python', 'Network Architecture', 'LTE']",19-09-2023
+CIELHR,Python Full Stack Developer,Python,Bangalore,3-6,"['Python', 'Full Stack', 'Django']",12-09-2023
+Robosoft Technologies,Python Developer,Data Science,Bangalore,5-8,"['Python', 'Django', 'Flask']",05-09-2023
 Palni India Pvt. Ltd.,Python Backend Developer,Data Management,Bangalore,2-3,"['Python', 'Backend Architecture', 'Flask']",11-09-2023
 Finoit,Python Developer,Artificial Intelligence,Bangalore,3-6,"['Python', 'Microservices Architecture', 'MongoDB']",05-09-2023
 Opportunity One Step Solutions Private Limited,Python Developer,AWS,Bangalore,3-5,"['Python', 'Django', 'Flask']",04-09-2023
@@ -463,29 +463,29 @@ Mouri Tech (P) Ltd,Python Full Stack Developer,Python,Bangalore,6-15,"['Python',
 EDU ANGELS INDIA PVT LTD,Python Full Stack Developer,Data Analytics,Chennai,3-9,"['Flask', 'MongoDB', 'RESTful API']",07-09-2023
 Intern Easy,Python Full Stack Developer,AWS,Bangalore,1-5,"['Python', 'Django', 'Flask']",07-09-2023
 Mouri Tech (P) Ltd,Lead Python Developer,Business Intelligence,Bangalore,8-15,"['Python', 'Django', 'Node.js']",05-09-2023
-Mouri Tech (P) Ltd,Python Full Stack Developer,Snowflake DB,Bangalore,5-10,"['Python', 'Full Stack', 'Node.js']",03-09-2023
-The Media Ant,Data Engineer,Data Pipeline,Gurgaon/Gurugram,2-3,"['Data Pipeline', 'Data Infrastructure', 'ETL']",01-11-2023
+Mouri Tech (P) Ltd,Python Full Stack Developer,Snowflake DB,Gurgaon/Gurugram,5-10,"['Python', 'Full Stack', 'Node.js']",03-09-2023
+The Media Ant,Data Engineer,Data Pipeline,Bangalore,2-3,"['Data Pipeline', 'Data Infrastructure', 'ETL']",01-11-2023
 SAMTA INFOTECH PRIVATE LIMITED,Senior Developer,Full Stack,Bangalore,4-6,"['Django', 'Python', 'Java 8']",31-10-2023
 RubyPy,Django Developer,Data Science,Gurgaon/Gurugram,2-5,"['Django', 'Flask', 'Python']",31-10-2023
 Cloud Hire,ELK Developer,Python,Any Location,4-6,"['ELK Stack', 'MongoDB', 'Python']",30-10-2023
-Sciative Solutions,Software Developer,Machine Learning,Mumbai,1-3,"['Python', 'MySQL', 'Django']",28-10-2023
-Captum IT,Software Engineer,Node.js,Bangalore,5-10,"['Python', '.Net', 'Java']",27-10-2023
+Sciative Solutions,Software Developer,Node.js,Mumbai,1-3,"['Python', 'MySQL', 'Django']",28-10-2023
+Captum IT,Software Engineer,Machine Learning,Bangalore,5-10,"['Python', '.Net', 'Java']",27-10-2023
 Hitya Global,Data Analyst,Data Science,Bangalore,2-3,"['Data Analyst', 'Product Analyst', 'Python']",26-10-2023
 Cloud Hire,Data Engineer,Azure,Anywhere in India/Multiple Locations,4-7,[],23-10-2023
 Falcon,Data Engineer,Azure Databricks,Hyderabad,4-8,"['Python', 'Java', 'Scala']",23-10-2023
 Starkflow,Data Engineering Lead/Manager,Big Data,Bangalore,9-12,"['Data Pipeline', 'Python', 'Pandas']",01-11-2023
 Valiance Analytics Pvt. Ltd.,Junior Software Engineer,AWS,Anywhere in India/Multiple Locations,0-1,"['Python', 'MySQL', 'Data Structure']",01-11-2023
-Thinkdeeply Solutions Pvt Ltd,Machine Learning Engineer,Python,Bangalore,5-10,"['Machine Learning', 'Deep Learning', 'R']",01-11-2023
-Eduonix Learning Solutions Pvt Ltd,Data Science Instructor,Data Management,Bangalore,2-8,"['Data Science', 'Technical Training', 'R']",01-11-2023
+Thinkdeeply Solutions Pvt Ltd,Machine Learning Engineer,Data Management,Bangalore,5-10,"['Machine Learning', 'Deep Learning', 'R']",01-11-2023
 HI Tel Solutions,Azure Data Engineer,Python,Bangalore,10-15,"['Azure', 'SQL', 'Python']",01-11-2023
-Infinite Group,Senior Backend Developer,Full Stack,Ahmedabad,3-6,"['Python', 'Django', 'Backend Architecture']",01-11-2023
+Infinite Group,Senior Backend Developer,Python,Bangalore,3-6,"['Python', 'Django', 'Backend Architecture']",01-11-2023
+Eduonix Learning Solutions Pvt Ltd,Data Science Instructor,Full Stack,Ahmedabad,2-8,"['Data Science', 'Technical Training', 'R']",01-11-2023
 Paralleldots,Senior Data Engineer,Python,Faridabad,5-7,"['Data Management', 'Data Governance', 'Data Modeling']",31-10-2023
 TransOrg Analytics,Data Engineer,Python,Bangalore,3-5,[],31-10-2023
 Matellio Inc.,AI/ML Engineer,Data Analytics,Anywhere in India/Multiple Locations,6-12,"['Artificial Intelligence', 'Machine Learning', 'Python']",31-10-2023
 Coders Brain Technology & Private Limited,AWS Engineer,Data Science,Anywhere in India/Multiple Locations,7-15,"['AWS', 'Python', 'CloudFormation']",21-10-2023
-whitetable.ai,Member of Technical Staff II,Python,Gurgaon/Gurugram,2-5,"['Java', 'Python']",30-10-2023
+whitetable.ai,Member of Technical Staff II,Big Data,Gurgaon/Gurugram,2-5,"['Java', 'Python']",30-10-2023
 Suryavanshi Ventures PVT LTD,Backend Developer,Python,Others,5-10,"['Python', 'Node.js', 'Backend Architecture']",30-10-2023
-V2SOFT INDIA,Senior Software Developer,Big Data,Hyderabad,6-10,"['Java', 'Python', 'Shell Scripting']",30-10-2023
+V2SOFT INDIA,Senior Software Developer,Python,Hyderabad,6-10,"['Java', 'Python', 'Shell Scripting']",30-10-2023
 e-Hireo,Data Engineer,Full Stack,Gurgaon/Gurugram,6-11,"['Data Pipeline', 'Python', 'Data Warehousing']",30-10-2023
 whitetable.ai,Machine Learning Engineer,Full Stack,Pune,2-5,"['Machine Learning', 'Data Science', 'Tensorflow']",30-10-2023
 talentxo,Full Stack Developer,Python,Anywhere in India/Multiple Locations,1-5,"['Python', 'Django', 'Full Stack']",30-10-2023
@@ -497,24 +497,24 @@ Flexiple,Data Engineer,Artificial Intelligence,Anywhere in India/Multiple Locati
 Atai Labs,Full Stack Engineer,ETL,Delhi NCR,4-10,"['Full Stack', 'Angular 2', 'Django']",27-10-2023
 Intelligence Node,Data Scientist,Azure,Gurgaon/Gurugram,3-9,"['Data Science', 'Data Scientist', 'Python']",27-10-2023
 WorkIndia,Software Development Engineer II,Data Management,Gurgaon/Gurugram,3-5,"['Python', 'Javascript', 'Golang']",27-10-2023
-Test Triangle,Machine Learning Engineer,Azure,Bangalore,0-20,"['Machine Learning', 'Data Science', 'R']",27-10-2023
-Flexiple,Backend Founding Engineer,AWS,Gurgaon/Gurugram,1-6,"['Node.js', 'Python']",27-10-2023
+Flexiple,Backend Founding Engineer,Azure,Bangalore,1-6,"['Node.js', 'Python']",27-10-2023
+Test Triangle,Machine Learning Engineer,AWS,Gurgaon/Gurugram,0-20,"['Machine Learning', 'Data Science', 'R']",27-10-2023
 Ripik.ai,Data Scientist,AWS,Mumbai,1-4,"['Data Science', 'Data Scientist', 'Artificial Intelligence']",27-10-2023
 Tamcherry Technologies,Azure Data Architect,Software Quality Assurance,Bangalore,10-15,"['Azure', 'Data Architect', 'DataLake']",27-10-2023
 PeopleStrong,Lead Databricks Developer,ETL,Hyderabad,4-10,"['Azure Databricks', 'Spark', 'Python']",27-10-2023
 HI Tel Solutions,Data Engineer,Data Science,Gurgaon/Gurugram,5-7,"['Big Data', 'Hadoop', 'Spark']",18-10-2023
 EXL,Data Engineer,Artificial Intelligence,Kolkata,4-10,"['AWS', 'Python', 'Java']",26-10-2023
-Sumanel Technology Ventures Pvt Ltd,Senior Backend Developer,Java,Gurgaon/Gurugram,2-5,"['Python', 'Django', 'RESTful API']",26-10-2023
-CODNEXT IT,Data Engineer,Python,Hyderabad,6-10,"['Data Management', 'Python', 'Scala']",18-10-2023
+CODNEXT IT,Data Engineer,Java,Gurgaon/Gurugram,6-10,"['Data Management', 'Python', 'Scala']",18-10-2023
+Sumanel Technology Ventures Pvt Ltd,Senior Backend Developer,Python,Hyderabad,2-5,"['Python', 'Django', 'RESTful API']",26-10-2023
 TEKsystems,Senior Data Engineer,Data Infrastructure,Bangalore,5-10,"['Python', 'Spark', 'PySpark']",26-10-2023
 AJMERA INFOTECH PRIVATE LIMITED,Senior Full Stack Developer,Backend Architecture,Hyderabad,5-10,"['Full Stack', '.Net', 'Node.js']",26-10-2023
 Cloud Hire,Data Engineer,Python,Gurgaon/Gurugram,5-8,"['Python', 'Scala', 'Google Cloud Platform']",17-10-2023
 Factwise,Junior Backend Developer,Python,Anywhere in India/Multiple Locations,0-1,"['Python', 'Django', 'AWS']",26-10-2023
 Bobble.Ai,Senior Data Analyst,Python,Bangalore,3-6,"['Data Analytics', 'Data Analyst', 'SQL']",25-10-2023
 Kadel Labs Private Limited,Data Scientist,Full Stack,Anywhere in India/Multiple Locations,10-16,"['Data Science', 'Data Scientist', 'R']",17-10-2023
-Talent500,Software Backend Engineer,Python,Pune,6-8,"['Python', 'DB', 'SQL']",16-10-2023
-Flexiple,Data Engineer,Python,Mumbai,2-5,"['Python', 'Data Pipeline', 'Pandas']",16-10-2023
-Forward Eye Technology,Big Data Engineer,Spark,Anywhere in India/Multiple Locations,6-10,"['Big Data', 'Python', 'Scala']",25-10-2023
+Forward Eye Technology,Big Data Engineer,Python,Pune,6-10,"['Big Data', 'Python', 'Scala']",25-10-2023
+Talent500,Software Backend Engineer,Python,Mumbai,6-8,"['Python', 'DB', 'SQL']",16-10-2023
+Flexiple,Data Engineer,Spark,Anywhere in India/Multiple Locations,2-5,"['Python', 'Data Pipeline', 'Pandas']",16-10-2023
 Numantra Technologies,Full Stack Developer,Big Data,Hyderabad,4-9,[],25-10-2023
 Burgeon IT Services,Full Stack Developer,Python,Anywhere in India/Multiple Locations,10-14,"['Full Stack', 'Python', 'React.js']",25-10-2023
 Aivoks Technologies Pvt. Ltd.,Full Stack Developer,Python,Anywhere in India/Multiple Locations,5-8,"['Full Stack', 'Python', 'Django']",23-10-2023
